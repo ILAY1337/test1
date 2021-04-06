@@ -1,2 +1,3 @@
 PRINT Сламалейкум
-TIMEOUT 10
+TIMEOUT 1000
+
